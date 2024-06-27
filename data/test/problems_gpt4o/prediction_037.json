@@ -1,0 +1,9 @@
+{
+    "id": 37,
+    "question": "A furniture company sells two types of tables \u2013 a dinning table and a coffee table. They cost $250 and $150 to make respectively. The company estimates that the total monthly demand of these two types of tables combined will be at most 200 units. The monthly manufacturing budget on tables is $20000. Determine the number of units of each type of tables the company should make to get maximum profit if the profit on each dinning table and coffee table are $200 and $100 respectively.",
+    "results": {
+        "The number of dining tables": "80.0",
+        "The number of coffee tables": "0.0",
+        "The total profit": "16000.0"
+    }
+}

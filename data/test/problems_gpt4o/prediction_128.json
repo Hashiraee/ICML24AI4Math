@@ -1,0 +1,9 @@
+{
+    "id": 128,
+    "question": "A honey farmer sells his honey in glass and plastic jars. A glass jar can hold 250 ml of honey while a plastic jar can hold 300 ml of honey. Since glass jars are more expensive, at least twice as many plastic jars must be filled as glass jars. However, at least 20 glass jars should be filled. If the farmer has 20000 ml of honey, how many jars of each should be filled to maximize the total number of bottles filled?",
+    "results": {
+        "The number of glass jars": "23.0",
+        "The number of plastic jars": "47.0",
+        "The total number of jars filled": "70.0"
+    }
+}

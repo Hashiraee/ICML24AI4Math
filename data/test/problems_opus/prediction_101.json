@@ -1,0 +1,9 @@
+{
+    "id": 101,
+    "question": "My family has decided to invest in real state for the first time. Currently, they have $600,000 to invest, some in apartments and the rest in townhouses. The money invested in apartments must not be greater than $200,000. They have decided that the money invested in apartments must be at least a half as much as that in townhouses.  If the apartments earn 10%, and the townhouses earn 15%, how much money should they invest in each to maximize profit?",
+    "results": {
+        "The money invested in apartments": "200000.00",
+        "The money invested in townhouses": "400000.00",
+        "The maximum profit": "80000.00"
+    }
+}

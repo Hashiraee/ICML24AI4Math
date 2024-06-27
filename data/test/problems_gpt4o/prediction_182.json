@@ -1,0 +1,13 @@
+{
+    "id": 182,
+    "question": "There are six cities (cities 1-6) in Kilroy County. The county must determine where to build fire stations. The county wants to build the minimum number of fire stations needed to ensure that at least one fire station is within 15 minutes (driving time) of each city. The times (in minutes) required to drive between the cities in Kilroy County are shown in the following Table. Tell Kilroy how many fire stations should be built and where they should be located.\n\nTable (Time Required to Travel between Cities in Kilroy County):\n| From / To | City 1 | City 2 | City 3 | City 4 | City 5 | City 6 |\n|-----------|--------|--------|--------|--------|--------|--------|\n| City 1    | 0      | 10     | 20     | 30     | 30     | 20     |\n| City 2    | 10     | 0      | 25     | 35     | 20     | 10     |\n| City 3    | 20     | 25     | 0      | 15     | 30     | 20     |\n| City 4    | 30     | 35     | 15     | 0      | 15     | 25     |\n| City 5    | 30     | 20     | 30     | 15     | 0      | 14     |\n| City 6    | 20     | 10     | 20     | 25     | 14     | 0      |",
+    "results": {
+        "The optimal number of fire stations to be built is": "2.0",
+        "Whether a fire stations should be built in City 1": "0.0",
+        "Whether a fire stations should be built in City 2": "1.0",
+        "Whether a fire stations should be built in City 3": "0.0",
+        "Whether a fire stations should be built in City 4": "1.0",
+        "Whether a fire stations should be built in City 5": "0.0",
+        "Whether a fire stations should be built in City 6": "0.0"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "id": 218,
+    "question": "A florist transports his flowers to stores in small bouquets and large bouquets. A small bouquet has 5 flowers while a large bouquet has 10 flowers. The florist can transport at most 80 small bouquets and 50 large bouquets. In total, he can transport at most 70 bouquets and he must transport at least 20 large bouquets. Since small bouquets are more popular, he must transport at least twice as many small bouquets as large bouquets. How many of each bouquet should he transport to maximize the total number of flowers that reach the stores?",
+    "results": {
+        "The number of small bouquets": "47.0",
+        "The number of large bouquets": "23.0",
+        "The total number of flowers transported": "465.0"
+    }
+}

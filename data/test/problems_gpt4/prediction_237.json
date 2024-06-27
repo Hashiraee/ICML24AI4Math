@@ -1,0 +1,9 @@
+{
+    "id": 237,
+    "question": "An industrial tire company delivers large tires for equipment to remote engineering sites either by cargo planes or ultrawide trucks. Each cargo plane can transport 10 tires per trip and costs $1000. Each ultrawide truck can transport 6 tires per trip and costs $700. The company needs to transport at least 200 tires and has available $22000. Because most remote sites don't have proper airports, the number of plane trips cannot exceed the number of ultrawide truck trips. How many trips of each should be done to minimize the total number of trips?",
+    "results": {
+        "The number of plane trips": "11",
+        "The number of truck trips": "15",
+        "The total number of trips": "26"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 164,
+    "question": "A chocolate maker has contracted to operate a small candy counter in a fashionable store, offering a limited selection of candy mixes and individual one-pound boxes of cashews, raisins, caramels, and chocolates. The counter will offer a regular mix (equal parts of cashews, raisins, caramels, and chocolates), a deluxe mix (one-half cashews and one-half chocolates), and individual one-pound boxes of each candy type. All candies are made fresh at the counter, but storage space for supplies is limited. Bins are available with the capacities shown in the following table. Additionally, to maintain a good image and encourage purchases, at least 20 boxes of each type of product must be made each day. Leftover boxes are donated to a nearby nursing home. The profit per box for each item is also provided in the table. Determine the optimal values of the decision variables and the maximum profit.\n\nTable (Ingredient Capacity and Profit per Box):\n| Ingredient | Capacity (pounds per day) | Regular Mix Profit | Deluxe Mix Profit | Individual Box Profit |\n|------------|---------------------------|--------------------|-------------------|-----------------------|\n| Cashews    | 120                       | $0.80              | $0.90             | $0.70                 |\n| Raisins    | 200                       | $0.80              | -                 | $0.60                 |\n| Caramels   | 100                       | $0.80              | -                 | $0.50                 |\n| Chocolates | 160                       | $0.80              | $0.90             | $0.75                 |",
+    "results": {
+        "The number of regular mix boxes": "320.0",
+        "The number of deluxe mix boxes": "40.0",
+        "The number of cashew boxes": "20.0",
+        "The number of raisin boxes": "120.0",
+        "The number of caramel boxes": "20.0",
+        "The number of chocolate boxes": "60.0",
+        "The maximum profit": "433.0"
+    }
+}

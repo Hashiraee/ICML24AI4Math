@@ -1,0 +1,9 @@
+{
+    "id": 6,
+    "question": "A gardener has 50 acres available for growing lavender and tulips. The gardener must grow at least 5 acres of lavender and at least 8 acres of tulips. Even though lavenders sell better, the gardener can grow at most twice the amount of lavender as tulips. If the profit per acre of lavender is $250 and the profit per acre of tulips is $200, how many acres of each should be grown to maximize profit?",
+    "results": {
+        "The number of acres of lavender grown": "33.333333",
+        "The number of acres of tulips grown": "16.666667",
+        "Total profit": "11666.666650000001"
+    }
+}

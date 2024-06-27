@@ -1,0 +1,11 @@
+{
+    "id": 362,
+    "question": "An investor has $70,000 to divide among several investment instruments. The returns for municipal bonds, CDs, t-bills, and growth stocks are given in the following Table. The investor must adhere to specific guidelines for the investment distribution: 1. No more than 20% in municipal bonds. 2. Investment in CDs should not exceed the other three alternatives. 3. At least 30% invested in t-bills and CDs. 4. More should be invested in CDs and t-bills than in municipal bonds and growth stocks by a ratio of 1.2 to 1. 5. All $70,000 should be invested. Formulate an LP to maximize the profit.\n\nTable (Investment returns for each instrument):\n| Investment Instrument | Return Rate |\n| --------------------- | ----------- |\n| Municipal Bonds       | 8.5%        |\n| CDs                   | 5%          |\n| T-bills               | 6.5%        |\n| Growth Stocks         | 13%         |",
+    "results": {
+        "Amount to invest in Municipal Bonds": "0.0",
+        "Amount to invest in CDs": "0.0",
+        "Amount to invest in T-Bills": "31818.182",
+        "Amount to invest in Growth Stocks": "38181.818",
+        "Total Profit": "7031.8181700000005"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "id": 207,
+    "question": "A chocolate company can transport their boxes of chocolate either using their own vans or by renting trucks. Their vans can transport 50 boxes per trip while a truck can transport 80 boxes per trip. Since they own their vans, the cost per van trip is $30 while the cost per truck trip is $50. The company needs to transport at least 1500 boxes of chocolate and they have a budget of $1000. Since the vans also provide advertising, the number of trips by van must be larger than the number of trips by trucks. How many of trip by each should be done to minimize the total number of trips?",
+    "results": {
+        "The number of van trips": "14.0",
+        "The number of truck trips": "10.0",
+        "The total number of trips": "24.0"
+    }
+}

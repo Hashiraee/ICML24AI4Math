@@ -1,0 +1,10 @@
+{
+    "id": 177,
+    "question": "The Office of Nutrition Inspection of the EU recently found that dishes served at \"Bullneck's\" dining and beverage facility, such as herring, hot dogs, and house-style hamburgers, do not meet the new nutritional regulations due to insufficient levels of vitamins A and C and dietary fiber. To address this, the owner is considering adding vegetable side dishes made from white cabbage, carrots, and a stockpile of pickled cucumbers. The table below provides the required amounts of vitamins and fiber per dish, their content in the foods, and the unit prices of the foods. The goal is to determine the minimum additional price per dish to meet the nutritional standards set by the Office of Nutrition Inspection.\n\nTable (Nutritional content and prices of food items):\n| Food Item        | Vitamin A (mg/kg) | Vitamin C (mg/kg) | Dietary Fiber (g/kg) | Price ($/kg) | Required Amount Per Dish |\n| ---------------- | ----------------- | ----------------- | -------------------- | ------------ | ------------------------ |\n| Carrot, Raw      | 35                | 60                | 30                   | 0.75         | Vitamin A: 0.5mg         |\n| White Cabbage, Raw | 0.5              | 300               | 20                   | 0.5          | Vitamin C: 15mg          |\n| Cucumber, Pickled | 0.5              | 10                | 10                   | 0.15         | Dietary Fiber: 4g        |\n\nThe objective function will express the price of the combination. What is the minimum additional price per dish to satisfy the nutritional requirements?",
+    "results": {
+        "The amount of carrot (kg) to be added to each dish": "0.014285714",
+        "The amount of white cabbage (kg) to be added to each dish": "0.040816327",
+        "The amount of cucumber (kg) to be added to each dish": "0.2755102",
+        "The minimum additional price per dish": "0.072448979"
+    }
+}

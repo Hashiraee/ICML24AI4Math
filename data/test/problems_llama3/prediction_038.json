@@ -1,0 +1,9 @@
+{
+    "id": 38,
+    "question": "A tropical farmer has 100 acres of land to grow guavas and mangos. He prefers to grow more mangos than guavas, but because they require so much more work, he can grow at most 2 times the amount of mangos as guavas. In addition he must grow at least 20 acres of guavas and at least 40 acres of mangos. If the profit per acre of guavas is $300 and the profit per acres of mangos is $500, how many acre of each should he grow to maximize profit?",
+    "results": {
+        "The number of acres of guavas to grow": "34",
+        "The number of acres of mangos to grow": "66",
+        "The maximum profit": "43200.0"
+    }
+}

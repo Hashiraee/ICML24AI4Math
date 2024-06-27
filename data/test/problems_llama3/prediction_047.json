@@ -1,0 +1,9 @@
+{
+    "id": 47,
+    "question": "A telecommunications company installs internet service and TV service in buildings. Each internet service takes 60 minutes of wiring time and 10 minutes of box installation time. Each TV service takes 50 minutes of wiring time and 20 minutes of box installation time. The company has available 7000 minutes of wiring time and 4000 minutes of box installation time. If the profit per internet service installation is $100 and the profit per TV service installation is $120, how many of each should be installed to maximize profit?",
+    "results": {
+        "The number of internet services installed": "0",
+        "The number of TV services installed": "140",
+        "The total profit": "16800.0"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "id": 345,
+    "question": "The weather is freezing and the fish in the pond need to be transported either by helicopter or car. A helicopter can take 30 fish per trip and takes 40 minutes. A car can take 20 fish per trip and takes 30 minutes. Since helicopter trips are expensive, there can be at most 5 helicopter trips. In addition, at least 60% of the trips should be by car. If at least 300 fish need to transported, how many of each trip should be taken to minimize the total time needed?",
+    "results": {
+        "The number of helicopter trips": "4.0",
+        "The number of car trips": "9.0",
+        "The total time needed": "430.0"
+    }
+}

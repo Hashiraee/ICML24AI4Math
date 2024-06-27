@@ -1,0 +1,11 @@
+{
+    "id": 199,
+    "question": "A four-product T-shirt/sweatshirt manufacturing company must complete production within 72 hours. The truck capacity is limited to 1,200 standard-sized boxes, with each standard box holding 12 T-shirts. A box for a dozen sweatshirts is three times the size of a standard box. With $25,000 available for a production run and 500 dozen blank T-shirts and sweatshirts in stock, determine how many dozens (boxes) of each type of shirt should be produced to maximize profit. Consider the following table for resource requirements for the product mix.\n\nTable (Resource requirements per dozen of each product type):\n| Product Type | Processing Time (hr/dozen) | Cost ($/dozen) | Profit ($/dozen) |\n| ------------ | -------------------------- | -------------- | ---------------- |\n| Sweatshirt - F | 0.10 | $36 | $90 |\n| Sweatshirt - B/F | 0.25 | $48 | $125 |\n| T-shirt - F | 0.08 | $25 | $45 |\n| T-shirt - B/F | 0.21 | $35 | $65 |",
+    "results": {
+        "The number of sweatshirts with front printing to produce": "184.0",
+        "The number of sweatshirts with back and front printing to produce": "166.0",
+        "The number of T-shirts with front printing to produce": "150.0",
+        "The number of T-shirts with back and front printing to produce": "0.0",
+        "The maximum profit": "44060.0"
+    }
+}

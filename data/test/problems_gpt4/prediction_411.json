@@ -1,0 +1,12 @@
+{
+    "id": 411,
+    "question": "Euing Gas produces two types of gasoline (gas 1 and gas 2) from two types of oil (oil 1 and oil 2). Each gallon of gas 1 must contain at least 50 percent oil 1, and each gallon of gas 2 must contain at least 60 percent oil 1. Each gallon of gas 1 can be sold for 12$, and each gallon of gas 2 can be sold for 14$. Currently, 500 gallons of oil 1 and 1,000 gallons of oil 2 are available. As many as 1,500 more gallons of oil 1 can be purchased at the following prices: first 500 gallons, 25$ per gallon; next 500 gallons, 20$ per gallon; next 500 gallons, 15$ per gallon. Formulate an LP that will maximize Euing's profits (revenues - purchasing costs).",
+    "results": {
+        "The amount of oil 1 purchased": "1000.0",
+        "The amount of oil 1 used to produce gas 1": "1500.0",
+        "The amount of oil 1 used to produce gas 2": "0.0",
+        "The amount of oil 2 used to produce gas 1": "0.0",
+        "The amount of oil 2 used to produce gas 2": "0.0",
+        "The maximum profit": "18500.0"
+    }
+}

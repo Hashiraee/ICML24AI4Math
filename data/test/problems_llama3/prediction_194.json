@@ -1,0 +1,12 @@
+{
+    "id": 194,
+    "question": "Euing Gas produces two types of gasoline (gas 1 and gas 2) from two types of oil (oil 1 and oil 2). Each gallon of gas 1 must contain at least 50 percent oil 1, and each gallon of gas 2 must contain at least 60 percent oil 1. Each gallon of gas 1 can be sold for $12, and each gallon of gas 2 can be sold for $14. Currently, 500 gallons of oil 1 and 1,000 gallons of oil 2 are available. As many as 1,500 more gallons of oil 1 can be purchased at the prices shown in the following Table. Maximize Euing's profits (revenues - purchasing costs).\n\nTable (Purchasing prices for additional gallons of oil 1):\n| Additional Gallons of Oil 1 | Price per Gallon |\n| --------------------------- | ---------------- |\n| First 500                   | $25              |\n| Next 500                    | $20              |\n| Next 500                    | $15              |",
+    "results": {
+        "The amount of oil 1 purchased": "1000.0",
+        "The amount of oil 1 used to produce gas 1": "1000.0",
+        "The amount of oil 1 used to produce gas 2": "500.0",
+        "The amount of oil 2 used to produce gas 1": "-500.0",
+        "The amount of oil 2 used to produce gas 2": "500.0",
+        "The maximum profit": "20666.666620000004"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "id": 27,
+    "question": "A battery store sells AA and D batteries. The store has a budget of $1000 and each AA battery costs $1 and each D battery costs $3. The monthly demand for both batteries will not exceed 1000. If the profit per AA battery is $0.50 and the profit per D battery is $1, how many of each should the store stock in order to maximize profit?",
+    "results": {
+        "The number of AA batteries to stock": "1000",
+        "The number of D batteries to stock": "0",
+        "Total profit": "500.00"
+    }
+}

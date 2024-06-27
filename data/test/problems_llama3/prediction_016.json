@@ -1,0 +1,9 @@
+{
+    "id": 16,
+    "question": "A jewelry company produces and sells bracelets and rings. The bracelets are hand-crafted by a team who can make at most 4 bracelets per day. The rings are made by another team who can make at most 7 rings per day. All rings have to be approved by a master jeweler and he can check at most 30 jewels of either type per day. If the profit per bracelet is $700 and the profit per ring is $300, how many of each should the jewelry company make to maximize profit?",
+    "results": {
+        "The number of bracelets to make": "4",
+        "The number of rings to make": "7",
+        "The maximum profit": "4900.0"
+    }
+}

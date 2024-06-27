@@ -1,0 +1,11 @@
+{
+    "id": 155,
+    "question": "Stockco is considering four investments, each with its own net present value (NPV) and required cash outflow. Currently, $14,000 is available for investment. Formulate an LP whose solution will tell Stockco how to maximize the NPV obtained from investments 1-4.\n\nTable (Net present value and cash outflow required for each investment):\n| Investment | NPV    | Cash Outflow |\n|------------|--------|--------------|\n| 1          | $16,000| $5,000       |\n| 2          | $22,000| $7,000       |\n| 3          | $12,000| $4,000       |\n| 4          | $8,000 | $3,000       |",
+    "results": {
+        "Investment in 1": "2.0",
+        "Investment in 2": "0.0",
+        "Investment in 3": "1.0",
+        "Investment in 4": "0.0",
+        "Total NPV": "44000.0"
+    }
+}

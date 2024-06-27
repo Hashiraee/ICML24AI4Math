@@ -1,0 +1,9 @@
+{
+    "id": 43,
+    "question": "Lisa can invest in NFTs and crypto-currency up to $5000. Each dollar invested in NFTs yields $0.30 profit, and each dollar invested in a crypto-currency yields $0.40 profit. A minimum of 25% of all money invested must be in NFTs, and at least $2300 must be in crypto-currency. How can Lisa maximize her profit?",
+    "results": {
+        "Dollars invested in NFTs": "1250.0",
+        "Dollars invested in crypto-currency": "3750.0",
+        "Total profit": "1875.0"
+    }
+}

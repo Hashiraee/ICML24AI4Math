@@ -1,0 +1,10 @@
+{
+    "id": 32,
+    "question": "A pet store feeds their dogs by making a mixture from two bags. Bag A contains 3 units of protein and 4 units of calcium per bag. Bag B contains 4 units of protein and 2 units of calcium per bag. The mixture must contain at least 30 units of protein and 35 units of calcium. Bag A costs $3.50 per bag and Bag B costs $2.50 per bag. Formulate an LP to minimize the cost for the mixture.",
+    "results": {
+        "The number of bags from Bag A": "8.0",
+        "The number of bags from Bag B": "2.0",
+        "The cost of the mixture": "33.0",
+        "Status": "Optimal"
+    }
+}

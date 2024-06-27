@@ -1,0 +1,10 @@
+{
+    "id": 364,
+    "question": "A company seeks to maximize exposure within a limited advertising budget. The exposure per ad or commercial, along with the cost for each medium, is provided in the following Table. The budget is limited to $100,000, with a maximum of four television commercials, ten radio commercials, and seven newspaper ads. Additionally, there is a cap of 15 total commercials and/or ads. How can the company maximize exposure within these constraints?\n\nTable (Exposure and Cost per Advertising Medium):\n| Advertising Medium | Exposure (people/ad or commercial) | Cost (USD) |\n| ------------------- | ---------------------------------- | ---------- |\n| Television Commercial | 20,000                            | 15,000     |\n| Radio Commercial      | 2,000                             | 6,000      |\n| Newspaper Ad          | 9,000                             | 4,000      |\n\nConstraints:\n- Total budget: $100,000\n- Maximum number of television commercials: 4\n- Maximum number of radio commercials: 10\n- Maximum number of newspaper ads: 7\n- Maximum total number of commercials and/or ads: 15",
+    "results": {
+        "The number of television commercials": "4",
+        "The number of radio commercials": "2",
+        "The number of newspaper ads": "7",
+        "The maximum exposure": "147000"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "id": 356,
+    "question": "A golf course is hosting an event and can transport guests using either golf carts or pull carts. A golf cart can take 4 guests while a pull cart can take 1 guest. Since golf carts take up a lot of space, at most 60% of carts can be golf carts. If the golf course needs to transport at least 80 guests, how many of each cart should be used to minimize the total number of carts needed?",
+    "results": {
+        "The number of golf carts to use": "17.0",
+        "The number of pull carts to use": "12.0",
+        "The total number of carts used": "29.0"
+    }
+}

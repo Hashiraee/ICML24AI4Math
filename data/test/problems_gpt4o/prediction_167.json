@@ -1,0 +1,14 @@
+{
+    "id": 167,
+    "question": "To graduate from Basketweavers University with a major in operations research, a student must complete at least two math courses, at least two OR courses, and at least two computer courses. Some courses can be used to fulfill more than one requirement, and some courses are prerequisites for others. Minimizes the number of courses needed to satisfy the major requirements.\n\nTable (Courses and their corresponding requirement fulfillment):\n| Course Name                    | Fulfills Math Requirement | Fulfills OR Requirement | Fulfills Computer Requirement | Prerequisite For            |\n| ------------------------------ | ------------------------- | ----------------------- | ----------------------------- | --------------------------- |\n| Calculus                       | Yes                       | No                      | No                            | Business Statistics         |\n| Operations Research            | Yes                       | Yes                     | No                            | None                        |\n| Data Structures                | Yes                       | No                      | Yes                           | None                        |\n| Business Statistics            | Yes                       | Yes                     | No                            | Forecasting                 |\n| Computer Simulation            | No                        | Yes                     | Yes                           | None                        |\n| Introduction to Computer Programming | No                        | No                      | Yes                           | Computer Simulation, Data Structures |\n| Forecasting                    | Yes                       | Yes                     | No                            | None                        |",
+    "results": {
+        "Calculus": "0.0",
+        "Operations Research": "1.0",
+        "Data Structures": "0.0",
+        "Business Statistics": "0.0",
+        "Computer Simulation": "1.0",
+        "Introduction to Computer Programming": "1.0",
+        "Forecasting": "0.0",
+        "The minimum number of courses needed": "3.0"
+    }
+}

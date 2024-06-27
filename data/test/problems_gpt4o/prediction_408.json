@@ -1,0 +1,25 @@
+{
+    "id": 408,
+    "question": "Basel Tool and Die Company (BTD) makes large industrial pipe wrenches in one of its factories. The marketing department estimates demand for this product during the next 6 months to be: January 370, February 430, March 380, April 450, May 520, June 440. With the current labor force, BTD believes it can make approximately 420 pipe wrenches per month at a cost of $40 per wrench using regular-time production. An additional 80 wrenches per month can be made using overtime production at a cost per wrench of $45. Wrenches can be made in advance and held in inventory for later shipment at a cost of $3 per month per wrench. The monthly demand for wrenches must be satisfied every month. At the end of December (beginning of January) BTD has 10 wrenches in inventory. BTD wants to plan its production, including overtime, and inventory for the next 6 months so as to maximize profit. Assuming the revenue for these wrenches is fixed, the production manager can maximize profit by minimizing the total costs incurred in producing and delivering the wrenches.",
+    "results": {
+        "Month 1 Regular-time production": "370.0",
+        "Month 1 Overtime production": "0.0",
+        "Month 1 Inventory at the end of the month": "10.0",
+        "Month 2 Regular-time production": "420.0",
+        "Month 2 Overtime production": "0.0",
+        "Month 2 Inventory at the end of the month": "0.0",
+        "Month 3 Regular-time production": "420.0",
+        "Month 3 Overtime production": "0.0",
+        "Month 3 Inventory at the end of the month": "40.0",
+        "Month 4 Regular-time production": "420.0",
+        "Month 4 Overtime production": "10.0",
+        "Month 4 Inventory at the end of the month": "20.0",
+        "Month 5 Regular-time production": "420.0",
+        "Month 5 Overtime production": "80.0",
+        "Month 5 Inventory at the end of the month": "0.0",
+        "Month 6 Regular-time production": "420.0",
+        "Month 6 Overtime production": "20.0",
+        "Month 6 Inventory at the end of the month": "0.0",
+        "Total cost": "103960.0"
+    }
+}

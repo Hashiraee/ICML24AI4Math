@@ -1,0 +1,11 @@
+{
+    "id": 197,
+    "question": "The Southfork Feed Company makes a feed mix from four ingredients: oats, corn, soybeans, and a vitamin supplement. The company has a limited supply of each ingredient and specific requirements for the mix composition. The mix must weigh at least 500 pounds. The company seeks to minimize the total cost of the mix. The cost of each ingredient per pound and the available amounts are shown in the following Table. Additionally, the mix must meet the following constraints: At least 30% of the mix must be soybeans (constraint 1), at least 20% of the mix must be the vitamin supplement (constraint 2), the ratio of corn to oats cannot exceed 2 to 1 (constraint 3), and the amount of oats cannot exceed the amount of soybeans (constraint 4).\n\nTable (Ingredients available and cost per pound):\n| Ingredient        | Available (pounds) | Cost per Pound |\n| ----------------- | ------------------ | -------------- |\n| Oats              | 300                | $0.50          |\n| Corn              | 400                | $1.20          |\n| Soybeans          | 200                | $0.60          |\n| Vitamin Supplement| 100                | $2.00          |\n\nDetermine the number of pounds of each ingredient to put in the mix to minimize the total costs while satisfying the mix requirements.",
+    "results": {
+        "The number of pounds of oats": "200.0",
+        "The number of pounds of corn": "0.0",
+        "The number of pounds of soybeans": "200.0",
+        "The number of pounds of vitamin supplement": "100.0",
+        "The total cost of the mix": "420.00"
+    }
+}

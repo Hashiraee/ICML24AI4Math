@@ -1,0 +1,9 @@
+{
+    "id": 150,
+    "question": "Glueco produces three types of glue on two different production lines. Each line can be utilized by up to seven workers at a time. Workers are paid $500 per week on production line 1, and $900 per week on production line 2. A week of production costs $1,000 to set up production line 1 and $2,000 to set up production line 2. During a week on a production line, each worker produces the number of units of glue shown in the following Table. Each week, at least 120 units of glue 1, at least 150 units of glue 2, and at least 200 units of glue 3 must be produced. Minimize the total cost of meeting weekly demands.\n\nTable (The number of units of glue produced by each worker on each production line during a week):\n| Glue Type | Production Line 1 | Production Line 2 |\n| ---------- | ----------------- | ----------------- |\n| Glue 1     | 20                | 50                |\n| Glue 2     | 30                | 35                |\n| Glue 3     | 40                | 45                |",
+    "results": {
+        "The number of workers on production line 1": "6.0",
+        "The number of workers on production line 2": "0.0",
+        "The total cost": "4000.0"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "id": 201,
+    "question": "A lab has 1000 units of medicinal ingredients to make two pills, a large pill and a small pill. A large pill requires 3 units of medicinal ingredients and 2 units of filler. A small pill requires 2 units of medicinal ingredients and 1 unit of filler. The lab has to make at least 100 large pills. However, since small pills are more popular at least 60% of the total number of pills must be small. How many of each should be made to minimize the total number of filler material needed?",
+    "results": {
+        "The number of large pills": "100",
+        "The number of small pills": "150",
+        "Total amount of filler material used": "350"
+    }
+}

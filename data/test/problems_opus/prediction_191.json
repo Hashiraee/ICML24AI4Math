@@ -1,0 +1,22 @@
+{
+    "id": 191,
+    "question": "Brooks City has three consolidated high schools, each with a capacity of 1,200 students. The school board has partitioned the city into five busing districts\u2014north, south, east, west, and central\u2014each with different high school student populations. The three schools are located in the central, west, and south districts. Some students must be bused outside their districts, and the school board wants to minimize the total bus distance traveled by these students. The following Table shows the average distances from each district to the three schools and the total student population in each district. The school board wants to determine the number of students to bus from each district to each school to minimize the total busing miles traveled.\n\nTable (Average distances from each district to the schools and student populations):\n| District | Central School (miles) | West School (miles) | South School (miles) | Student Population |\n| -------- | ---------------------- | ------------------- | -------------------- | ------------------ |\n| North    | 8                      | 11                  | 14                   | 700                |\n| South    | 12                     | 9                   | -                    | 300                |\n| East     | 9                      | 16                  | 10                   | 900                |\n| West     | 8                      | -                   | 9                    | 600                |\n| Central  | -                      | 8                   | 12                   | 500                |",
+    "results": {
+        "The number of students from North to Central": "700.0",
+        "The number of students from North to West": "",
+        "The number of students from North to South": "",
+        "The number of students from East to Central": "",
+        "The number of students from East to West": "",
+        "The number of students from East to South": "900.0",
+        "The number of students from Central to Central": "500.0",
+        "The number of students from Central to West": "",
+        "The number of students from Central to South": "",
+        "The number of students from South to Central": "",
+        "The number of students from South to West": "",
+        "The number of students from South to South": "300.0",
+        "The number of students from West to Central": "",
+        "The number of students from West to West": "600.0",
+        "Total busing miles traveled": "14600.0",
+        "Status": "Optimal"
+    }
+}

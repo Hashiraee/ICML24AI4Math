@@ -1,0 +1,11 @@
+{
+    "id": 374,
+    "question": "Chip Green is the head groundskeeper at Birdie Valley Golf Club. For the mix of grass for the golf course, Chip has decided that the best fertilizer would be a 10-8-12 mixture. (Fertilizer is defined by three values: a, b and c where a is the percentage of nitrogen, b is the percentage of phosphorus, and c is the percentage of potash in the fertilizer. The remaining material is inert matter.) Chip can buy a 10-8-12 mix of fertilizer for $21.75 per 100 pounds, but there are other fertilizers on the market at a variety of prices. The chemical content of [nitrogen, phosphorus, potash] and prices are given below. Fertilizer 1: [10,8,12] for $21.75 per 100 pounds; Fertilizer 2: [8,11,15] for $23.75 per 100 pounds; Fertilizer 3: [12,7,12] for $22.00 per 100 pounds; Fertilizer 4: [10,10,10] for $19.50 per 100 pounds; Fertilizer 5: [15,10,6] for $18.50 per 100 pounds;. Chip would like to determine whether or not he could buy several fertilizers and mix them together to obtain a 10-8-12 mixture at a lower cost than $21.75 per 100 pounds. Recognizing that it might be impossible to obtain an exact 10-8-12 mix from the fertilizers, Chip is willing to accept chemical percentages of at least the target amounts, but no more than 0.5% above them (so the nitrogen level should be between 10% and 10.5%; the phosphorus level should be between 8% and 8.5%; the potash level should be between 12% and 12.5%). Please determine the proportion of each fertilizers in the compost.",
+    "results": {
+        "The quantity of Fertilizer 1": "0.65",
+        "The quantity of Fertilizer 2": "0.1",
+        "The quantity of Fertilizer 3": "0.1",
+        "The quantity of Fertilizer 4": "0.15",
+        "The quantity of Fertilizer 5": "0.0"
+    }
+}

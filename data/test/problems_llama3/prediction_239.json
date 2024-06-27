@@ -1,0 +1,9 @@
+{
+    "id": 239,
+    "question": "A tropical city full of islands sends mail either by submarine or by boat. A submarine can carry 100 pieces of mail per trip and uses 30 liters of gas. A boat can carry 80 pieces of mail per trip and uses 25 liters of gas. There can be at most 6 submarine trips and a minimum of 50% of the trips must be by boat. If the city needs to transport at least 1000 pieces of mail, how many of each transportation should they use to minimize the total amount of gas used?",
+    "results": {
+        "The number of submarine trips": "2",
+        "The number of boat trips": "10",
+        "The total amount of gas used": "310.0"
+    }
+}

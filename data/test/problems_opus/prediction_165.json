@@ -1,0 +1,11 @@
+{
+    "id": 165,
+    "question": "International Wool Company operates a large farm on which sheep are raised. The farm manager determined that for the sheep to grow in the desired fashion, they need at least minimum amounts of four nutrients (the nutrients are nontoxic so the sheep can consume more than the minimum without harm). The manager is considering three different grains to feed the sheep. The table below lists the number of units of each nutrient in each pound of grain, the minimum daily requirements of each nutrient for each sheep, and the cost of each grain. The manager believes that as long as a sheep receives the minimum daily amount of each nutrient, it will be healthy and produce a standard amount of wool. The manager wants to raise the sheep at minimum cost. \n\nTable (The number of units of each nutrient in each pound of grain, the minimum daily requirements of each nutrient for each sheep, and the cost of each grain):\n| Nutrient | Grain A | Grain B | Grain C | Minimum Daily Requirement |\n|----------|---------|---------|---------|---------------------------|\n| Nutrient A | 20      | 30      | 70      | 110                       |\n| Nutrient B | 10      | 10      | 0       | 18                        |\n| Nutrient C | 50      | 30      | 0       | 90                        |\n| Nutrient D | 6       | 2.5     | 10      | 14                        |\n\nThe prices of grain A, B, and C are $41, $36, and $96, respectively.",
+    "results": {
+        "The amount of grain A to feed the sheep": "0.60",
+        "The amount of grain B to feed the sheep": "2.01",
+        "The amount of grain C to feed the sheep": "0.54",
+        "The minimum cost": "148.61",
+        "Status": "Optimal"
+    }
+}

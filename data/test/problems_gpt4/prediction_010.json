@@ -1,0 +1,9 @@
+{
+    "id": 10,
+    "question": "Tom Designs manufactures three coats: long, short, and mini. These coats are produced in two different factories: a north one and a south one. Running the north factory for an hour costs $200 and produces 20 long coats, 15 short coats, and 10 mini coats. Running the south factory for an hour costs $400 and yields 30 long coats, 25 short coats, and 30 mini coats. To meet customer demands, a minimum of 75 long coats, 30 short coats, and 40 mini coats must be produced daily. Determine a daily production plan that minimizes the cost of meeting the company\u2019s daily demands.",
+    "results": {
+        "Number of hours the north factory operates": "4.0",
+        "Number of hours the south factory operates": "0.0",
+        "Total cost of operation": "800.0"
+    }
+}

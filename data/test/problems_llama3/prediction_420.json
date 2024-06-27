@@ -1,0 +1,10 @@
+{
+    "id": 420,
+    "question": "Many companies or institutions, especially those operating 24 h daily, usually divide the daily schedule into discrete (say, T) time windows. Examples include hospitals, restaurants, call centers, and police departments. The number of staff required typically varies among time windows. Staff members are scheduled to n different (work) shifts, each covering m(m < T) consecutive time windows. Staff members assigned to different shifts may be paid differently, depending on which shift they work. For example, those working overnight are usually paid at a higher rate. The scheduling problem is to determine the number of workers to be assigned to each shift so that the company meets the demand in each time window. Following is an example of a 24 h fast food restaurant. The daily operation is divided into eight consecutive time windows, each of 3 h duration. A shift covers three consecutive time windows (i.e., 9h), as shown in Table: \nTime Window, Shift 1 2 3 4, \nWorkers Required: \n6 a.m.-9 a.m. Shift 1 and 4, the Required 55; \n9 a.m.-12 noon Shift 1, the Required 46; \n12 noon-3 p.m. Shift 1 and 2, the Required 59; \n3 p.m.-6 p.m. Shift 2, the Required 23; \n6 p.m.-9 p.m. Shift 2 and 3, the Required 60; \n9 p.m.-12 a.m. Shift 3, the Required 38; \n12 a.m.-3 a.m. Shift 3 and 4, the Required 20; \n3 a.m.-6 a.m. Shift 4, the Required 30. \nThe wage rate per 9 h for shift 1, 2, 3, 4: $135, $140, $190, X $188.",
+    "results": {
+        "The number of workers for shift 1": "46",
+        "The number of workers for shift 2": "23",
+        "The number of workers for shift 3": "38",
+        "The total wage cost": "22290.0"
+    }
+}

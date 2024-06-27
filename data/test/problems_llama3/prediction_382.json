@@ -1,0 +1,14 @@
+{
+    "id": 382,
+    "question": "To graduate from Basketweavers University with a major in operations research, a student must complete at least two math courses, at least two OR courses, and at least two computer courses. Some courses can be used to fulfill more than one requirement: Calculus can fulfill the math requirement; operations research, math and OR requirements; data structures, computer and math requirements; business statistics, math and OR requirements; computer simulation, OR and computer requirements; introduction to computer programming, computer requirement; and forecasting, OR and math requirements. Some courses are prerequisites for others: Calculus is a prerequisite for business statistics; introduction to computer programming is a prerequisite for computer simulation and for data structures; and business statistics is a prerequisite for forecasting. Formulate an LP that minimizes the number of courses needed to satisfy the major requirements.",
+    "results": {
+        "Calculus": "0.0",
+        "Operations Research": "1.0",
+        "Data Structures": "1.0",
+        "Business Statistics": "0.0",
+        "Computer Simulation": "1.0",
+        "Introduction to Computer Programming": "0.0",
+        "Forecasting": "0.0",
+        "The minimum number of courses needed": "3.0"
+    }
+}

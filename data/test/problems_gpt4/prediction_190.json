@@ -1,0 +1,25 @@
+{
+    "id": 190,
+    "question": "Basel Tool and Die Company (BTD) manufactures large industrial pipe wrenches in one of its factories. The marketing department has estimated the demand for this product over the next 6 months as shown in the following Table. With the current labor force, BTD can produce approximately 420 pipe wrenches per month at a cost of $40 per wrench using regular-time production. Additionally, up to 80 wrenches per month can be produced using overtime at a cost of $45 per wrench. Wrenches can also be produced in advance and stored in inventory at a cost of $3 per month per wrench. The monthly demand for wrenches must be met without fail. At the end of December (beginning of January), BTD has an inventory of 10 wrenches. BTD aims to plan its production, including overtime, and inventory for the next 6 months to maximize profit. Assuming the revenue for these wrenches is fixed, the production manager can maximize profit by minimizing the total costs of production and inventory.\n\nTable (Estimated demand for pipe wrenches over the next 6 months):\n| Month    | Demand |\n| -------- | ------ |\n| January  | 370    |\n| February | 430    |\n| March    | 380    |\n| April    | 450    |\n| May      | 520    |\n| June     | 440    |",
+    "results": {
+        "Month 1 Regular-time production": "370.0",
+        "Month 1 Overtime production": "0.0",
+        "Month 1 Inventory at the end of the month": "10.0",
+        "Month 2 Regular-time production": "420.0",
+        "Month 2 Overtime production": "0.0",
+        "Month 2 Inventory at the end of the month": "0.0",
+        "Month 3 Regular-time production": "420.0",
+        "Month 3 Overtime production": "0.0",
+        "Month 3 Inventory at the end of the month": "40.0",
+        "Month 4 Regular-time production": "420.0",
+        "Month 4 Overtime production": "10.0",
+        "Month 4 Inventory at the end of the month": "20.0",
+        "Month 5 Regular-time production": "420.0",
+        "Month 5 Overtime production": "80.0",
+        "Month 5 Inventory at the end of the month": "0.0",
+        "Month 6 Regular-time production": "420.0",
+        "Month 6 Overtime production": "20.0",
+        "Month 6 Inventory at the end of the month": "0.0",
+        "Total cost": "103960.0"
+    }
+}

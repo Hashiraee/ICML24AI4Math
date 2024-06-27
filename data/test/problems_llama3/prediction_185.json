@@ -1,0 +1,13 @@
+{
+    "id": 185,
+    "question": "Gandhi Cloth Company is capable of manufacturing three types of clothing: shirts, shorts, and pants. The manufacture of each type of clothing requires that Gandhi have the appropriate type of machinery available. The machinery needed to manufacture each type of clothing must be rented at the following rates: shirt machinery, $200 per week; shorts machinery, $150 per week; pants machinery, $100 per week. The manufacture of each type of clothing also requires the amounts of cloth and labor as shown in the following Table 1. Each week, 150 hours of labor and 160 sq yd of cloth are available. The variable unit cost and selling price for each type of clothing are shown in Table 2. Maximize Gandhi's weekly profits.\n\nTable 1 (The amount of labor hours and cloth required for each type of clothing):\n| Clothing Type | Labor Hours | Cloth (sq yd) |\n| ------------- | ----------- | ------------- |\n| Shirt         | 3           | 4             |\n| Shorts        | 2           | 3             |\n| Pants         | 6           | 4             |\n\nTable 2 (Revenue and Cost Information for each type of clothing):\n| Clothing Type | Sales Price | Variable Cost |\n| ------------- | ----------- | ------------- |\n| Shirt         | $12         | $6            |\n| Shorts        | $8          | $4            |\n| Pants         | $15         | $8            |",
+    "results": {
+        "The number of shirts produced each week": "30.0",
+        "The number of shorts produced each week": "0.0",
+        "The number of pants produced each week": "10.0",
+        "Shirt machinery rented": "0.0",
+        "Shorts machinery rented": "0.0",
+        "Pants machinery rented": "0.0",
+        "The maximum weekly profit": "250.0"
+    }
+}

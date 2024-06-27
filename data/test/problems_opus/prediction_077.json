@@ -1,0 +1,10 @@
+{
+    "id": 77,
+    "question": "A small pharmacy weighs and packages their medication. Each bottle of pills takes 20 minutes of weighing and 10 minutes of packaging. Each bottle of cream takes 15 minutes of weighing and 15 minutes of packaging. The pharmacy has available 4000 minutes for weighing and 3000 minutes for packaging. If the profit per bottle of pills is $50 and the profit per bottle of cream is $60, how many of each should the pharmacy prepare to maximize profit?",
+    "results": {
+        "The number of bottles of pills": "99",
+        "The number of bottles of cream": "134",
+        "The total profit": "12990",
+        "Status": "Optimal"
+    }
+}

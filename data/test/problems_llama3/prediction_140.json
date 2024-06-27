@@ -1,0 +1,9 @@
+{
+    "id": 140,
+    "question": "A bank can build small and large branches to serve their customers. A small branch can serve 50 customers per day and requires 10 bank tellers. A large branch can serve 100 customers per day and requires 15 bank tellers. The bank has available 200 bank tellers and needs to be able to serve at least 1200 customers per day. How many of each branch size should they build to minimize the total number of branches needed?",
+    "results": {
+        "The number of small branches": "0",
+        "The number of large branches": "12",
+        "The total number of branches": "12"
+    }
+}
