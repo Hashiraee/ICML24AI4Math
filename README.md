@@ -1,7 +1,7 @@
 # AI4Math: Track 03
 
 This project contains various AI models for mathematical problem-solving,
-including GPT-4, GPT-4 with optimizations, LLAMA3, and OPUS.
+including GPT-4, GPT-4o, LLAMA3, and Claude 3 Opus.
 
 ## Project Structure
 
